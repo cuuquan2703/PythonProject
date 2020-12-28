@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\HP.HP-PC\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.linting.pylintArgs": [
+        "--errors-only",
+        "--unsafe-load-any-extension=y"
+    ]
+    
+}
